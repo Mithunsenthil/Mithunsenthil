@@ -6,7 +6,8 @@ I'm passionate about **Data Science** and **Data Analytics**, always eager to ex
 ## 👀 Interests
 - Data Science & Machine Learning
 - Data Analytics & Visualization
-- Python, SQL, and Streamlit
+- Python, SQL
+- Django 
 
 ## 💞️ Looking to Collaborate On
 - Open-source projects related to Data Science
