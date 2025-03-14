@@ -7,10 +7,11 @@ I'm passionate about **Data Science** and **Data Analytics**, always eager to ex
 - Data Science & Machine Learning
 - Data Analytics & Visualization
 - Python, SQL
-- Django 
+- Django
+- Backend Development (APIs, Server-Side Logic, Database Management)
 
-## 💞️ Looking to Collaborate On
+## Looking to Collaborate On
 - Open-source projects related to Data Science
 - Building interactive dashboards and visualizations
 - Machine learning and AI-driven solutions
-
+- Backend development and server-side architectures
