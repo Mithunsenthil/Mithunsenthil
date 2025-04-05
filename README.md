@@ -24,6 +24,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat-square)
 ![NLTK](https://img.shields.io/badge/-NLTK-9C27B0?logo=python&logoColor=white&style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
 
 
 ### 🌐 Web & Backend
@@ -35,7 +36,6 @@
 ### 📈 Visualization & Reporting
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white&style=flat-square)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
 
 ### 🧰 Developer & Data Tools
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
