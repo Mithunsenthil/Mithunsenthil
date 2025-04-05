@@ -19,10 +19,12 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat-square)
 ![NLTK](https://img.shields.io/badge/-NLTK-9C27B0?logo=python&logoColor=white&style=flat-square)
+
 
 ### 🌐 Web & Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
