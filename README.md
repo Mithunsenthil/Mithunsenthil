@@ -4,7 +4,11 @@
 - 🌱 Exploring advanced ML/DL techniques, Django for web development, and multimedia tools like FL Studio and Blender for creative applications.
 
 ---
+## 📊 GitHub Stats
 
+![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithunsenthil&show_icons=true&theme=radical&hide_title=true)
+
+---
 ## 🛠️ Tools & Technologies I Work With
 
 ### 🧠 Programming Languages
