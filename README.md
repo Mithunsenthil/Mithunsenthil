@@ -24,7 +24,6 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat-square)
 ![NLTK](https://img.shields.io/badge/-NLTK-9C27B0?logo=python&logoColor=white&style=flat-square)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
 
 
 ### 🌐 Web & Backend
