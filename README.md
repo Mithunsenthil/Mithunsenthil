@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Mithun Senthil! 
-**MSc Data Science @ PSG College of Technology** *Building intelligent systems and exploring the intersection of Data & Creativity.*
+### MSc Data Science @ PSG College of Technology
 ---
 
 ### 🧪 About Me
