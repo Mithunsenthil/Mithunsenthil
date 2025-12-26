@@ -52,8 +52,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MithunSenthil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mithun-senthil-v-17a2b8258)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mithunsenthil&color=0e75b6&style=flat-square)
-
 <!---
 Mithunsenthil/Mithunsenthil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
