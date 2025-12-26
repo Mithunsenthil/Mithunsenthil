@@ -1,7 +1,6 @@
 # 🚀 Hi, I'm Mithun Senthil! 
 ### MSc Data Science @ PSG College of Technology
 ---
-
 ### 🧪 About Me
 I am a Data Science student passionate about **Machine Learning**, **Backend Development**, and **Computational Mathematics**. 
 
