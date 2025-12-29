@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Mithun Senthil! 
+   # 🚀 Hi, I'm Mithun Senthil! 
 ### MSc Data Science @ PSG College of Technology
 ---
 ### 🧪 About Me
