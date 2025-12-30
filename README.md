@@ -10,7 +10,6 @@ I am a Data Science student passionate about **Machine Learning**, **Backend Dev
 * 📍 **Location:** Coimbatore, India.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
