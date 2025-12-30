@@ -8,7 +8,6 @@ I am a Data Science student passionate about **Machine Learning**, **Backend Dev
 * 👨‍💻 **Tech Stack:** Specialized in Python, Django, and SQL.
 * 🎨 **Creative Side:** Music production in **FL Studio** & 3D art in **Blender**.
 * 📍 **Location:** Coimbatore, India.
-
 ---
 ### 🛠️ Tech Stack & Tools
 
